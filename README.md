@@ -10,3 +10,4 @@ The approach is to write a custom function that reads the rows of the csv one by
 
 Possible improvements to this script could be to offer more freedom in user inputs, such as allowing users to write their own SQL scripts, and adding more dimensional tables that can join to the movie table.
 
+To run this, pull the repository, navigate to the directory on the command line and run 'go run main.go'. Enter 1 first to truncate and load the csv file. After loading the table, you can input 2 and find the movie ID you want.
